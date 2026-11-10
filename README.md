@@ -13,7 +13,7 @@ Plataforma de clipping de notícias ([lupanews.app.br](https://lupanews.app.br))
 - Microsserviço de scraping (FastAPI + Playwright) com buffer local de resiliência
 - Infra em VMs Oracle Cloud ARM64 via Tailscale — custo R$ 0/mês
 
-O código é privado, mas as decisões técnicas são públicas: ➜ [Lupa-Architecture](https://github.com/vhmedeiros/Lupa-Architecture)
+O código é privado, mas as decisões técnicas são públicas: ➜ [Lupa-Architecture](https://github.com/vhmedeiros/Lupa-Architecture) — diagramas, trade-offs e o porquê de cada escolha.
 
 ## Outros projetos
 
@@ -22,9 +22,11 @@ O código é privado, mas as decisões técnicas são públicas: ➜ [Lupa-Archi
 - [portfolio](https://github.com/vhmedeiros/portfolio) — meu site pessoal (Django, HTMX, Tailwind)
 
 ## Stack
-(mantenha os badges como estão)
+
+`Python` `Django` `Django Ninja` `FastAPI` `PostgreSQL` `SQL Server` `Celery` `Redis` `Docker` `Linux` `Nginx` `Playwright` `HTMX`
 
 Uso IA (Claude Code) como ferramenta no fluxo de desenvolvimento — a arquitetura, as decisões e a operação são minhas. E mantenho estudo ativo de fundamentos (Python, SQL, testes) para dominar a base que a IA acelera.
 
 ## Contato
-📫 victor@vhmedeiros.dev.br · [LinkedIn](https://linkedin.com/in/vhmedeiros) · [vhmedeiros.dev.br](https://vhmedeiros.dev.br)
+
+📫 [victor@vhmedeiros.dev.br](mailto:victor@vhmedeiros.dev.br) · [LinkedIn](https://linkedin.com/in/vhmedeiros) · [vhmedeiros.dev.br](https://vhmedeiros.dev.br)
